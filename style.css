@@ -1,0 +1,23 @@
+body {
+text-align: center;
+    background-color: aquamarine;
+    font-size: 35px;
+}
+.menu {
+    top:15px;
+    right:30px;
+    position:absolute;
+    cursor:pointer;
+    z-index:10px;
+}
+.links {
+float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+.link:hover {
+background-color: aqua;
+    text-decoration-color: antiquewhite;
+}
